@@ -10,5 +10,6 @@ int main()
     {
         printf("The marks at index %d is %d\n", i, marks[i]);
     }
+    //6:57
     return 0;
 }
