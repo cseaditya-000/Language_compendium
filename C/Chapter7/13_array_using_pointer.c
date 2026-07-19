@@ -8,7 +8,9 @@ int main()
 
     for (int i = 0; i < 4; i++)
     {
-        printf("The marks at index %d is %d\n", i, marks[i]);
+        // printf("The marks at index %d is %d\n", i, marks[i]);
+        printf("The marks at index %d is %d\n", i, *ptr);
+        ptr++;
     }
     //6:57
     return 0;
