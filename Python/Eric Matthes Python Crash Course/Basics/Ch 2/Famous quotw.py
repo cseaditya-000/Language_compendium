@@ -1,1 +1,0 @@
-print('\tAlbert Einstein once said, \n"A person who never made a mistake has never tried anything new."')
